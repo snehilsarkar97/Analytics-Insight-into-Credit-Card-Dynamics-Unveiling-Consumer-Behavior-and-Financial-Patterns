@@ -56,33 +56,31 @@ Data cleaning ensures data quality and reliability for analysis. Key steps inclu
 - Converting data types for efficient analysis.
 
 ### Summary Statistics
-# Customer Insights Analysis
-
-## Months Inactive
+### Months Inactive
 - **Average**: 2.3 months  
 - **Standard Deviation**: 1.01 months  
 - **Median**: 2 months  
 - **Insight**: Most customers are inactive for about 2 months. However, significant variation suggests the need for strategies to re-engage customers inactive for longer periods.
 
-## Total Transaction Count
+### Total Transaction Count
 - **Average**: 64 transactions  
 - **Standard Deviation**: 23 transactions  
 - **Median**: 67 transactions  
 - **Insight**: Customers average 64 transactions, with notable variation in engagement levels. This can help tailor personalized marketing efforts.
 
-## Revolving Balance
+### Revolving Balance
 - **Average**: $1,162.81  
 - **Standard Deviation**: $814.99  
 - **Median**: $1,276.00  
 - **Insight**: Customers maintain an average revolving balance of $1,162.81, with significant variability. Financial management tools could assist customers in managing balances more effectively.
 
-## Available Credit
+### Available Credit
 - **Average**: $7,469.14  
 - **Standard Deviation**: $9,090.69  
 - **Median**: $3,474.00  
 - **Insight**: A wide range in available credit suggests diverse financial situations. Insights can inform credit limit adjustments and personalized offers.
 
-## Amount Change Q4 to Q1
+### Amount Change Q4 to Q1
 - **Average**: 0.76  
 - **Standard Deviation**: 0.22  
 - **Median**: 0.736  
